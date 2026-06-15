@@ -1,0 +1,1 @@
+Proyecto preparado parcialmente. Falta verificar/crear las carpetas android/ e ios/ con 'flutter create .' antes de compilar APK.
