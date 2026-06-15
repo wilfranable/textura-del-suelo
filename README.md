@@ -1,0 +1,1 @@
+Proyecto Flutter de textura del suelo. Ejecuta 'flutter create .' para generar los archivos Android/iOS reales.
